@@ -20,6 +20,3 @@ db.connect((err) => {
     }
     console.log('Connected to the database as ID ' + db.threadId);
   });
-
-
-  //mysql://ufxs1w6m5qiiieub:OWd0ee3owOVJgVyMMPt1@bkgzpte55c8yzpqusvaz-mysql.services.clever-cloud.com:3306/bkgzpte55c8yzpqusvaz
