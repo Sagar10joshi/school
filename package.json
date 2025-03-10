@@ -1,0 +1,28 @@
+{
+  "name": "school",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "��#\u0000 \u0000s\u0000c\u0000h\u0000o\u0000o\u0000l\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sagar10joshi/school.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sagar10joshi/school/issues"
+  },
+  "homepage": "https://github.com/Sagar10joshi/school#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "geolib": "^3.3.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.13.0"
+  }
+}
